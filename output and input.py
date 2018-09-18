@@ -11,5 +11,9 @@ print("100+300=", 100 + 300)
 name = input("请输入你的名字")
 print("hello", name)
 
+# 字符串 - 转义
+print('i\'m 胡靖昊')
+
+print(r"////r////")
 
 
